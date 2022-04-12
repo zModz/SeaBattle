@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/tiago/Desktop/2d-chess-unity-master/2d-chess-unity-master/Assets/scene.unity
+  isLoaded: 1
+  isActive: 1
